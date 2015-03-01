@@ -10,6 +10,18 @@ import java.io.OutputStreamWriter;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * Old lexicon writer class. The main class {@link #main(String[])} takes tab
+ * list of SwissProt entries and writes out the lexicon. This method doesn't
+ * support various constraints in naming like recommended names, other names and
+ * abbreviations. This class is thus deprecated. To create *both dictionary and
+ * abbreviations list* please use {@link XMLLexiconWriter} which takes XML
+ * format of SwissProt entries.
+ * 
+ * @author Silphe
+ *
+ */
+@Deprecated
 public class LexiconWriter {
 
 	/**

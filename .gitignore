@@ -1,0 +1,5 @@
+# Java project specific files #
+###############################
+
+*.classspath
+*.project

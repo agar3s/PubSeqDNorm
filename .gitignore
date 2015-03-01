@@ -2,4 +2,9 @@
 ###############################
 
 *.classspath
-*.project
+*.projec
+
+# temp file #
+#############
+
+/temp/*

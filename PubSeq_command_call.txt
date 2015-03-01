@@ -1,0 +1,6 @@
+Original DNORM command call:
+config/banner_NCBIDisease_TEST.xml data/CTD_diseases.tsv output/simmatrix_e4.bin sample.txt sample-out.txt
+
+Pubseq Command Call:
+config/pubseq_test.xml data/uniprot-lexicon.tab output/simmatrix_e4.bin sample.txt sample-out.txt
+TODO: create simmatrix_e4 for Pubseq

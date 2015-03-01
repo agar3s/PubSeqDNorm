@@ -4,7 +4,12 @@
 *.classspath
 *.projec
 
-# temp file #
-#############
+# temp dir #
+############
 
 /temp/*
+
+# setting dir #
+###############
+
+/.settings:/*

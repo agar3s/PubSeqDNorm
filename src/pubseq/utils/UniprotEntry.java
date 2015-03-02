@@ -85,7 +85,7 @@ public class UniprotEntry {
 		return out;
 	}
 
-	public String getAbbrevDef() {
+	public String getAbbrevDef(int counter) {
 
 		String out = "";
 
@@ -94,7 +94,7 @@ public class UniprotEntry {
 			Set<String> abbrevList = this.abbrevs.get(key);
 
 			for (String abbrev : abbrevList) {
-				out += abbrev + "\t" + key
+				out += counter + "\t" + abbrev + "\t" + key
 						+ System.getProperty("line.separator");
 			}
 		}

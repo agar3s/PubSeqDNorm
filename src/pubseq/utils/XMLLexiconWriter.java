@@ -31,6 +31,8 @@ public class XMLLexiconWriter {
 
 	private BufferedWriter bwd = null;
 	private BufferedWriter bwa = null;
+	
+	private int entry;
 
 	private int counter;
 
@@ -195,7 +197,7 @@ public class XMLLexiconWriter {
 	private void writeEntry(UniprotEntry entry) throws IOException {
 
 		this.bwd.write(entry.getDictDef());
-		this.bwa.write(entry.getAbbrevDef());
+		this.bwa.write(entry.getAbbrevDef(this.counter));
 
 		if (++this.counter % 1000 == 0) {
 			System.out.println("Parsed " + this.counter + " entries");

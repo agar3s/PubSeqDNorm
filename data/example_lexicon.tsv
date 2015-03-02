@@ -1,0 +1,150 @@
+Type-1 fimbrial protein, C chain	FIM1C_ECOL6						pilC|focA|Type-1C pilin
+Type-1 fimbrial protein, C chain	FIM1C_ECOLX						pilC|focA|Type-1C pilin
+Type-1 fimbrial protein, A chain	FIMA1_ECOLI						Type-1A pilin|fimA|pilA
+Type-1 fimbrial protein, A chain	FIMA1_ECOLX						Type-1A pilin|fimA
+Major fimbrial subunit protein type-1	FIMA1_PORG3						Major fimbrial subunit protein type I|Fimbrillin|fimA
+Major fimbrial subunit protein type-1	FIMA1_PORGN						Major fimbrial subunit protein type I|Fimbrillin|fimA
+Type-1 fimbrial protein, A chain	FIMA1_SALTI						Type-1A pilin|fimA
+Type-1 fimbrial protein, A chain	FIMA1_SALTY						Type-1A pilin|fimA
+Type-1 fimbrial protein subunit	FIMA1_SERMA						fimA
+Major fimbrial subunit protein type-3	FIMA3_PORGN						Fimbrillin|fimA|Major fimbrial subunit protein type III
+Major fimbrial subunit protein type-4	FIMA4_PORGN						Major fimbrial subunit protein type IV|Fimbrillin|fimA
+Major fimbrial subunit protein type-5	FIMA5_PORGN						Major fimbrial subunit protein type V|Fimbrillin|fimA
+Major fimbrial subunit protein type-2	FIMA2_PORGN						Major fimbrial subunit protein type II|Fimbrillin|fimA
+Protein FimA	FIMA_BORPT						fimA
+Major fimbrial subunit protein	FIMA_PORGI						Fimbrillin|fimA
+Fimbrin-1	FIMB1_ARATH						FIM1|Fimbrin1
+Major fimbrial subunit protein type Ib	FIMB1_PORGN						Fimbrillin|fimA
+Major fimbrial subunit protein type-2	FIMB2_PORGN						Major fimbrial subunit protein type II|Fimbrillin|fimA
+Fimbrin-2	FIMB2_ARATH						Fimbrin2|FIM2
+Fimbrin-3	FIMB3_ARATH						FIM3|Fimbrin3
+Fimbrin-4	FIMB4_ARATH						FIM4|Fimbrin4
+Fimbrin-5	FIMB5_ARATH						FIM2|FIM5|Fimbrin5|Fimbrin-like protein 2
+Fimbrial assembly protein, serogroup A1	FIMBA_DICNO						fimB|Bacteroides nodosus
+Fimbrial assembly protein, serogroup B1	FIMBB_DICNO						fimB|Bacteroides nodosus
+Fimbrial assembly protein, serogroups C1 and C2	FIMBC_DICNO						fimB|Bacteroides nodosus
+Fimbrial assembly protein, serogroup E2	FIMBE_DICNO						fimB|Bacteroides nodosus
+Fimbrial assembly protein, serogroup F1	FIMBF_DICNO						fimB|Bacteroides nodosus
+Fimbrial assembly protein, serogroup G1	FIMBG_DICNO						fimB|Bacteroides nodosus
+Fimbrial assembly protein, serogroup I	FIMBI_DICNO						fimB|Bacteroides nodosus
+Fimbrial assembly protein, serogroup E1	FIMBX_DICNO						fimB|Bacteroides nodosus
+Chaperone protein FimB/FhaD	FIMB_BORPE						fimB|fhaD
+Fimbrin	FIMB_DICDI						fimA
+Type 1 fimbriae regulatory protein FimB	FIMB_ECO57						fimB
+Type 1 fimbriae regulatory protein FimB	FIMB_ECOLI						fimB
+Fimbrin	FIMB_SCHPO						fim1
+Fimbrin	FIMB_YEAST						ABP67|SAC6
+Probable fimbrial assembly protein FimC, serogroup D	FIMCD_DICNO						fimC|Bacteroides nodosus
+Probable fimbrial assembly protein FimC, serogroup H1	FIMCH_DICNO						fimC|Bacteroides nodosus
+Outer membrane usher protein FimC	FIMC_BORPE						fimC|fhaA
+Chaperone protein FimC	FIMC_ECOL6						fimC
+Chaperone protein FimC	FIMC_ECOLI						fimC
+Chaperone protein FimC	FIMC_SALTY						fimC
+Probable fimbrial assembly protein FimD, serogroup H1	FIMDH_DICNO						fimD|Bacteroides nodosus
+Outer membrane usher protein FimD	FIMD_ECOLI						fimD
+Outer membrane usher protein FimD	FIMD_SALTY						fimD
+Type 1 fimbriae regulatory protein FimE	FIME_ECOL6						fimE
+Type 1 fimbriae regulatory protein FimE	FIME_ECOLI						fimE
+Type 1 fimbriae regulatory protein FimE	FIME_SHIFL						fimE
+Fimbrial-like protein FimF	FIMF_SALTY						fimF
+Protein FimG	FIMG_ECOLI						fimG
+Protein FimF	FIMF_ECOLI						fimF
+Protein FimH	FIMH_ECOLI						fimH
+Protein FimH	FIMH_SALTY						fimH
+Fimbrin-like protein FimI	FIMI_ECOLI						fimI
+Fimbrin-like protein FimI	FIMI_SALTY						fimI
+Fimbriae W protein	FIMW_SALTY						fimW
+Fimbriae Y protein	FIMY_SALTY						fimY
+Fimbriae Z protein	FIMZ_ECO57						fimZ
+Fimbriae Z protein	FIMZ_ECOLI						fimZ|ybcA
+Fimbriae Z protein	FIMZ_SALTY						fimZ
+G2-specific protein kinase fin1	FIN1_SCHPO						fin1
+Filament protein FIN1	FIN1_YEAST						Filaments in between nuclei protein 1|FIN1
+Fibronectin	FINC_BOVIN						Anastellin|FN1
+Fibronectin	FINC_CANFA						Canis lupus familiaris|FN1
+Fibronectin	FINC_CHICK						FN1
+Fibronectin	FINC_HORSE						FN1
+Fibronectin	FINC_HUMAN						Cold-insoluble globulin|Ugl-Y1|Ugl-Y3|Anastellin|Ugl-Y2|FN1|FN
+Fibronectin	FINC_MOUSE						Anastellin|Fn1
+Fibronectin	FINC_NOTVI						Triturus viridescens
+Fibronectin	FINC_PLEWA						
+Fibronectin	FINC_RABIT						FN1
+Fibronectin	FINC_RAT						Anastellin|Fn1
+Fibronectin	FINC_XENLA						fn1
+Fertility inhibition protein	FINO2_ECOLX						Conjugal transfer repressor|finO
+Fertility inhibition protein	FINO3_ECOLX						Conjugal transfer repressor|finO
+Fertility inhibition protein	FINO4_ECOLX						Conjugal transfer repressor|finO
+Fertility inhibition protein	FINO_ECO57						Conjugal transfer repressor|finO
+Fertility inhibition protein	FINO_ECOLI						Conjugal transfer repressor|finO
+Protein FinQ	FINQ_ECOLX						finQ
+Iron transport multicopper oxidase fio1	FIO1_SCHPO						fio1
+Pre-mRNA polyadenylation factor fip1	FIP1X_SCHPO						
+Pre-mRNA polyadenylation factor FIP1	FIP1_ASHGO						FIP1|Eremothecium gossypii
+Pre-mRNA polyadenylation factor fip1	FIP1_ASPFU						fip1|Aspergillus fumigatus
+Fungus-induced protein 1	FIP1_CAEBR						fip-1
+Fungus-induced protein 1	FIP1_CAEEL						fip-1
+Pre-mRNA polyadenylation factor FIP1	FIP1_CANAL						FIP1
+Pre-mRNA polyadenylation factor FIP1	FIP1_CANGA						Torulopsis glabrata|FIP1
+Pre-mRNA polyadenylation factor FIP1	FIP1_DEBHA						FIP1|Torulaspora hansenii
+Pre-mRNA 3'-end-processing factor FIP1	FIP1_DANRE						fip1l1|Brachydanio rerio|FIP1-like 1 protein
+Pre-mRNA polyadenylation factor fip1	FIP1_EMENI						Aspergillus nidulans|fip1
+Pre-mRNA polyadenylation factor FIP1	FIP1_GIBZE						FIP1|Fusarium graminearum
+Pre-mRNA 3'-end-processing factor FIP1	FIP1_HUMAN						Rearranged in hypereosinophilia|FIP1L1|FIP1|FIP1-like 1 protein|Factor interacting with PAP|RHE
+Pre-mRNA polyadenylation factor FIP1	FIP1_KLULA						FIP1|Candida sphaerica
+Pre-mRNA 3'-end-processing factor FIP1	FIP1_MOUSE						Fip1l1|FIP1-like 1 protein
+Pre-mRNA polyadenylation factor fip-1	FIP1_NEUCR						fip-1
+Pre-mRNA 3'-end-processing factor FIP1	FIP1_PONAB						FIP1L1|FIP1-like 1 protein|Pongo pygmaeus abelii
+Pre-mRNA 3'-end-processing factor FIP1	FIP1_RAT						Fip1l1|FIP1-like 1 protein
+Plasma membrane iron permease	FIP1_SCHPO						fip1
+Pre-mRNA polyadenylation factor FIP1	FIP1_YARLI						Candida lipolytica|FIP1
+Pre-mRNA polyadenylation factor FIP1	FIP1_YEAST						FIP1
+FH protein interacting protein FIP2	FIP2_ARATH						FIP2|BTB/POZ domain-containing protein At5g55000
+FKBP12-interacting protein of 37 kDa	FIP37_ARATH						Immunophilin-interacting protein AtFIP37|FIP37
+Fungus-induced protein 3	FIP3_CAEEL						fip-3
+FIP1[III]-like protein	FIPS3_ARATH						FIPS3|Factor interacting with poly(A) polymerase-like 3|Protein HOMOLOG OF YEAST FIP1 [III]
+FIP1[V]-like protein	FIPS5_ARATH						FIPS5|FIP1[V]|Factor interacting with poly(A) polymerase 1-like 5|Protein HOMOLOG OF YEAST FIP1 [V]
+Fungus-induced-related protein 16	FIR16_CAEEL						fipr-16
+Fungus-induced-related protein 15	FIR15_CAEEL						fipr-15
+Factor interacting with REF2	FIR1_YEAST						FIR1|PAP1-interacting protein|Polymerase-interacting protein 1|PIP1
+300 kDa antigen AG231	FIRA_PLAFF						FIRA
+Mitochondrial fission 1 protein A	FIS1A_ARATH						BGY1|Protein BIGYIN 1|FIS1 homolog A|FIS1A
+Mitochondrial fission 1 protein B	FIS1B_ARATH						FIS1 homolog B|FIS1B
+Mitochondria fission 1 protein	FIS1_ASHGO						FIS1|Eremothecium gossypii
+Mitochondria fission 1 protein	FIS1_ASPFU						Aspergillus fumigatus|fis1
+Mitochondria fission 1 protein	FIS1_ASPOR						fis1
+Mitochondrial fission 1 protein	FIS1_BOVIN						FIS1|Fis1 homolog
+Mitochondria fission 1 protein	FIS1_CANAL						FIS1
+Mitochondria fission 1 protein	FIS1_CANGA						FIS1|Torulopsis glabrata
+Mitochondria fission 1 protein	FIS1_CHAGB						FIS1
+Mitochondria fission 1 protein	FIS1_CRYNB						Filobasidiella neoformans|FIS1
+Mitochondria fission 1 protein	FIS1_CRYNJ						Filobasidiella neoformans|FIS1
+Mitochondria fission 1 protein	FIS1_DEBHA						FIS1|Torulaspora hansenii
+Mitochondria fission 1 protein	FIS1_EMENI						Aspergillus nidulans|fis1
+Mitochondria fission 1 protein	FIS1_GIBZE						FIS1|Fusarium graminearum
+Mitochondrial fission 1 protein	FIS1_HUMAN						FIS1|FIS1 homolog|Tetratricopeptide repeat protein 11|TTC11
+Mitochondria fission 1 protein	FIS1_KLULA						FIS1|Candida sphaerica
+Mitochondrial fission 1 protein	FIS1_MOUSE						Fis1|FIS1 homolog|Tetratricopeptide repeat protein 11|Ttc11
+Mitochondria fission 1 protein	FIS1_NEUCR						mtp-2|Mitochondrial transmission protein 2|fis1
+Mitochondrial fission 1 protein	FIS1_RAT						Fis1|FIS1 homolog|Tetratricopeptide repeat protein 11|Ttc11
+Mitochondria fission 1 protein	FIS1_SCHPO						fis1
+Mitochondria fission 1 protein	FIS1_TUBBO						FIS1
+Mitochondria fission 1 protein	FIS1_USTMA						FIS1
+Mitochondria fission 1 protein	FIS1_YARLI						FIS1|Candida lipolytica
+Mitochondria fission 1 protein	FIS1_YEAST						FIS1|MDV2|Mitochondrial division protein 2
+Polycomb group protein FERTILIZATION-INDEPENDENT SEED 2	FIS2_ARATH						FIS2
+DNA-binding protein Fis	FIS_ACTSZ						fis
+DNA-binding protein Fis	FIS_AERHH						fis
+DNA-binding protein Fis	FIS_AERS4						fis
+DNA-binding protein Fis	FIS_ALISL						fis|Vibrio salmonicida (strain LFI1238)
+DNA-binding protein Fis	FIS_BUCA5						fis
+DNA-binding protein Fis	FIS_BUCAI						fis|Acyrthosiphon pisum symbiotic bacterium
+DNA-binding protein Fis	FIS_BUCAP						fis
+DNA-binding protein Fis	FIS_BUCAT						fis
+DNA-binding protein Fis	FIS_CITK8						fis
+DNA-binding protein Fis	FIS_CROS8						fis|Enterobacter sakazakii
+DNA-binding protein Fis	FIS_ECO24						fis
+DNA-binding protein Fis	FIS_ECO27						fis
+DNA-binding protein Fis	FIS_ECO45						fis
+DNA-binding protein Fis	FIS_ECO55						fis
+DNA-binding protein Fis	FIS_ECO57						fis
+DNA-binding protein Fis	FIS_ECO5E						fis

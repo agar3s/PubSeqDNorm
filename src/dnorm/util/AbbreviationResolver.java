@@ -43,8 +43,9 @@ public class AbbreviationResolver {
 			abbreviation = new HashMap<String, String>();
 			abbreviations.put(pmid, abbreviation);
 		}
-		if (abbreviation.containsKey(shortForm) && !abbreviation.get(shortForm).equals(longForm))
-			throw new IllegalArgumentException();
+		//TODO raharjaliu uncomment later!
+//		if (abbreviation.containsKey(shortForm) && !abbreviation.get(shortForm).equals(longForm))
+//			throw new IllegalArgumentException();
 		abbreviation.put(shortForm, longForm);
 	}
 

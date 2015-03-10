@@ -92,7 +92,7 @@ public class IDMapperFilter {
 			}
 
 			System.out
-					.println("Finished writing " + count + " UniProt entries");
+					.println("Finished writing " + count + " UniProt entries to" + newEntriesCSV);
 
 			br.close();
 			bw.close();
